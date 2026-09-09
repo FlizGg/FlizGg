@@ -1,31 +1,106 @@
-# 💫 About Me:
-👋 Hi, I'm Fliz!<br><br>💻 Junior Software Developer with 3 years of coding experience.<br>🚀 Passionate about Software Engineering, Web Development and building cool things.<br><br>🧑‍💻 Tech Stack:<br>HTML • CSS • JavaScript • TypeScript • Python • C++ • Rust<br>Node.js • Bootstrap • Tailwind CSS<br><br>🎬 Creative Skills:<br>Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop<br><br>🎯 Currently improving my skills in Software Engineering and Full-Stack Development.
+<h1 align="center">⚡ Hi, I'm fl1z</h1>
 
+<p align="center">
+  <img  src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=00d9ff&center=true&width=520&lines=Software+Developer;Full+Stack+Developer;Game+Developer;Streamer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/d7nFptDAay) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19i6WqUK2B/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.facebook.com/share/19i6WqUK2B/?mibextid=wwXIfr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/hg4nh_/s/7kAuQLNfzL) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hg4nh_?_r=1&_t=ZS-99b0WpM1mQD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@codewithfliz?si=eYTsOoJVrwo4FNTh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fuligocorp@gmail.com) 
+<p align="center">
+  <img  src="https://count.getloli.com/get/@FlizGg?theme=minecraft" alt="Visitor counter" />
+</p>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=FlizGg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=FlizGg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=FlizGg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/FlizGg"><img src="https://img.shields.io/badge/Website-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://instagram.com/hg4nh_"><img src="https://img.shields.io/badge/Instagram-00d9ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:fuligocorp@gmail.com"><img src="https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FlizGg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## ⚡ About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+👋 Hi, I'm Fliz!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FlizGg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💻 Junior Software Developer with 3 years of coding experience.
+🚀 Passionate about Software Engineering, Web Development and building cool things.
+
+🧑‍💻 Tech Stack:
+HTML • CSS • JavaScript • TypeScript • Python • C++ • Rust
+Node.js • Bootstrap • Tailwind CSS
+
+🎬 Creative Skills:
+Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop
+
+🎯 Currently improving my skills in Software Engineering and Full-Stack Development.
+
+- 🌐 Website: https://github.com/FlizGg
+- 📸 Instagram: https://instagram.com/hg4nh_
+- ✉️ Email: fuligocorp@gmail.com
+- 📍 Location: Vietnam
+
+## ⚙️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-00d9ff?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00d9ff?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-00d9ff?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00d9ff?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-00d9ff?style=for-the-badge&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-00d9ff?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-00d9ff?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00d9ff?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00d9ff?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00d9ff?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00d9ff?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00d9ff?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00d9ff?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00d9ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00d9ff?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00d9ff?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00d9ff?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-00d9ff?style=for-the-badge&logo=azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00d9ff?style=for-the-badge&logo=vs-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00d9ff?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-00d9ff?style=for-the-badge&logo=vite&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FlizGg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlizGg&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img  src="https://streak-stats.demolab.com?user=FlizGg&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=FlizGg&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophy" />
+</p>
+
+## 🏙️ 3D City Contribution View
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/FlizGg/FlizGg/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D city contribution view" />
+</p>
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img  src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev joke" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=FlizGg&icon=10&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hoanganh20101110) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>Generated with GitHub Profile Styler</i>
+</p>
