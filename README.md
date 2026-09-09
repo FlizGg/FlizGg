@@ -93,7 +93,7 @@ Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop
   <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-## 😂 Random Dev Joke
+## 😂 Dev Joke
 
 <p align="center">
   <img  src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev joke" />
@@ -102,5 +102,5 @@ Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop
 ---
 
 <p align="center">
-  <i>Generated with GitHub Profile Styler</i>
+  <i>Generated with fl1z</i>
 </p>
