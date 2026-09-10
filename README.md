@@ -30,9 +30,9 @@ Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop
 
 🎯 Currently improving my skills in Software Engineering and Full-Stack Development.
 
-- 🌐 Website: https://github.com/FlizGg
-- 📸 Instagram: https://instagram.com/hg4nh_
-- ✉️ Email: fuligocorp@gmail.com
+- 🌐 Website: https://github.com/FlizGg/
+- 📸 Instagram: https://instagram.com/hg4nh_/
+- ✉️ Email: fuligocorp@gmail.com/
 - 📍 Location: Vietnam
 
 ## ⚙️ Tech Stack
