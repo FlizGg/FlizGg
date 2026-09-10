@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FlizGg"><img src="https://img.shields.io/badge/Website-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/FlizGg" target="blank"><img src="https://img.shields.io/badge/Website-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://instagram.com/hg4nh_"><img src="https://img.shields.io/badge/Instagram-00d9ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:fuligocorp@gmail.com"><img src="https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
