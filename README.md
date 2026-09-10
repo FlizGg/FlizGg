@@ -32,7 +32,7 @@ Adobe After Effects • Adobe Premiere Pro • CapCut • Adobe Photoshop
 
 - 🌐 Website: https://github.com/FlizGg/
 - 📸 Instagram: https://instagram.com/hg4nh_/
-- ✉️ Email: fuligocorp@gmail.com/
+- ✉️ Email: fuligocorp@gmail.com
 - 📍 Location: Vietnam
 
 ## ⚙️ Tech Stack
